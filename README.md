@@ -13,7 +13,7 @@ Getting Started
 To get the API up and running on your local machine, follow these steps:
 
 Clone the repository:
-git clone https://github.com/your-username/task-management-api.git
+https://github.com/Naveen0817/Assignmnet_Submission_Naveen_Adhikari/tree/main
 
 Navigate to the project directory:
 cd task-management-api
